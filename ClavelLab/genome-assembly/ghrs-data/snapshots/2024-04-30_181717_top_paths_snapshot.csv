@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ClavelLab/genome-assembly/tree/main/workflow,16,3
+/ClavelLab/genome-assembly/tree/main/workflow/rules,13,2
+/ClavelLab/genome-assembly,8,5
+/ClavelLab/genome-assembly/blob/main/workflow/rules/assembly.smk,6,2
+/ClavelLab/genome-assembly/blob/main/workflow/Snakefile,6,2
+/ClavelLab/genome-assembly/tree/main/workflow/schemas,4,2
+/ClavelLab/genome-assembly/tree/main/config,3,1
+/ClavelLab/genome-assembly/tree/main/resources,3,1
+/ClavelLab/genome-assembly/blob/main/.snakemake-workflow-catalog.yml,2,1
+/ClavelLab/genome-assembly/blob/main/workflow/rules/common.smk,2,1
