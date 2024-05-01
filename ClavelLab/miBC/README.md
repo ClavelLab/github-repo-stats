@@ -6,3 +6,5 @@
 
 **Latest report PDF**: [report.pdf](https://github.com/ClavelLab/github-repo-stats/raw/github-repo-stats/ClavelLab/miBC/latest-report/report.pdf)
 
+
+**Latest report HTML via GitHub pages**: [report.html](https://clavellab.github.io/github-repo-stats/ClavelLab/miBC/latest-report/report.html)
