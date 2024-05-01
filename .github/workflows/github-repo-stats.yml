@@ -13,7 +13,13 @@ jobs:
     strategy:
       matrix:
         # The repositories to generate reports for.
-        statsRepo: ['ClavelLab/maldipickr', 'ClavelLab/genome-assembly', 'ClavelLab/miBC', 'thh32/Protologger']
+        statsRepo:
+          - ClavelLab/maldipickr
+          - ClavelLab/genome-assembly
+          - ClavelLab/miBC
+          - FAIR-MI/miiid-schema
+          - NFDI4Microbiota/MetadataStandards
+          - NFDI4Microbiota/nfdi4microbiota-knowledge-base
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be
