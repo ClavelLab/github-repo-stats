@@ -1,5 +1,5 @@
 % Statistics for FAIR-MI/miiid-schema
-% Generated for [FAIR-MI/miiid-schema](https://github.com/FAIR-MI/miiid-schema) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-01 10:39 UTC.
+% Generated for [FAIR-MI/miiid-schema](https://github.com/FAIR-MI/miiid-schema) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-05-01 23:13 UTC.
 
 
 ## Views
