@@ -30,4 +30,5 @@ jobs:
         uses: jgehrcke/github-repo-stats@v1.4.2
         with:
           repository: ${{ matrix.statsRepo }}
+          ghpagesprefix: https://clavellab.github.io/github-repo-stats
           ghtoken: ${{ secrets.ghrs_github_api_token }}
