@@ -10,3 +10,5 @@ Browse below the latest interactive reports for the following repositories:
 - [FAIR-MI/miiid-schema](https://clavellab.github.io/github-repo-stats/FAIR-MI/miiid-schema/latest-report/report.html)
 - [NFDI4Microbiota/MetadataStandards](https://clavellab.github.io/github-repo-stats/NFDI4Microbiota/MetadataStandards/latest-report/report.html)
 - [NFDI4Microbiota/nfdi4microbiota-knowledge-base](https://clavellab.github.io/github-repo-stats/NFDI4Microbiota/nfdi4microbiota-knowledge-base/latest-report/report.html)
+
+The data use to create these reports are located in the [`github-repo-stats` branch](https://github.com/ClavelLab/github-repo-stats/tree/github-repo-stats).
