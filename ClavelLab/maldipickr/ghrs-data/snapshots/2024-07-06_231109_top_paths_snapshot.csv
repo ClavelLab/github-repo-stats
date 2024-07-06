@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/ClavelLab/maldipickr,20,10
+/ClavelLab/maldipickr/tree/main/R,5,3
+/ClavelLab/maldipickr/blob/main/R/process_spectra.R,3,2
+/ClavelLab/maldipickr/blob/main/R/read_many_biotyper_reports.R,3,2
+/ClavelLab/maldipickr/blob/main/R/pick_spectra.R,2,2
+/ClavelLab/maldipickr/blob/main/R/set_reference_spectra.R,2,2
+/ClavelLab/maldipickr/blob/main/R/is_a_rds_list.R,2,1
+/ClavelLab/maldipickr/actions/workflows/R-CMD-check.yaml,1,1
