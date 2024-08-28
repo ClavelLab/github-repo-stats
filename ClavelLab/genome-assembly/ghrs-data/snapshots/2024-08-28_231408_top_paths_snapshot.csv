@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ClavelLab/genome-assembly,10,7
+/ClavelLab/genome-assembly/tree/main/workflow,8,2
+/ClavelLab/genome-assembly/blob/main/workflow/scripts/write_summary_table.py,6,1
+/ClavelLab/genome-assembly/tree/main/workflow/scripts,5,1
+/ClavelLab/genome-assembly/blob/main/workflow/scripts/check_LSU_SSU.py,4,1
+/ClavelLab/genome-assembly/tree/main/workflow/rules,3,1
+/clavellab/genome-assembly,2,2
+/ClavelLab/genome-assembly/blob/main/config/README.md,2,1
+/ClavelLab/genome-assembly/blob/main/workflow/rules/assembly.smk,2,1
+/ClavelLab/genome-assembly/blob/main/workflow/scripts/aggregate_summaries.py,2,1
