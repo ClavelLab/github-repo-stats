@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/ClavelLab/genome-assembly,11,9
+/ClavelLab/genome-assembly/tree/main/workflow,3,1
+/ClavelLab/genome-assembly/tree/main/workflow/rules,3,1
+/ClavelLab/genome-assembly/blob/main/config/README.md,2,1
+/ClavelLab/genome-assembly/blob/main/workflow/rules/assembly.smk,2,1
+/ClavelLab/genome-assembly/blob/main/workflow/scripts/write_summary_table.py,2,1
+/clavellab/genome-assembly,1,1
