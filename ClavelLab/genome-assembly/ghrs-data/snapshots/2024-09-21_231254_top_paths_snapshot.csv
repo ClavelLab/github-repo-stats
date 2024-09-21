@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ClavelLab/genome-assembly/tree/main/workflow,9,2
+/ClavelLab/genome-assembly/tree/main/workflow/rules,9,1
+/ClavelLab/genome-assembly/blob/main/workflow/rules/assembly.smk,7,1
+/ClavelLab/genome-assembly,4,4
+/ClavelLab/genome-assembly/tree/main/workflow/envs,4,1
+/ClavelLab/genome-assembly/tree/main/workflow/scripts,3,1
+/ClavelLab/genome-assembly/blob/main/workflow/rules/common.smk,2,1
+/ClavelLab/genome-assembly/blob/main/workflow/rules/filtering.smk,2,1
+/ClavelLab/genome-assembly/blob/main/workflow/scripts/write_coverage_and_metrics.py,2,1
+/ClavelLab/genome-assembly/blob/main/workflow/Snakefile,2,1
