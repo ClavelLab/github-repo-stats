@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ClavelLab/genome-assembly/tree/main/workflow/rules,10,2
+/ClavelLab/genome-assembly/tree/main/workflow,8,3
+/ClavelLab/genome-assembly/tree/main/workflow/envs,6,2
+/ClavelLab/genome-assembly,5,4
+/ClavelLab/genome-assembly/blob/main/workflow/rules/assembly.smk,3,2
+/ClavelLab/genome-assembly/blob/main/workflow/rules/filtering.smk,3,2
+/ClavelLab/genome-assembly/blob/main/workflow/rules/quality_check.smk,3,2
+/ClavelLab/genome-assembly/blob/main/workflow/envs/bakta.yaml,2,1
+/ClavelLab/genome-assembly/blob/main/workflow/rules/common.smk,2,1
+/ClavelLab/genome-assembly/blob/main/workflow/rules/plasmid_reconstruction.smk,2,1
