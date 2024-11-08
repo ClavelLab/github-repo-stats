@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ClavelLab/genome-assembly,5,5
+/ClavelLab/genome-assembly/blob/main/config/config.yaml,4,2
+/ClavelLab/genome-assembly/blob/main/workflow/rules/quality_check.smk,2,2
+/ClavelLab/genome-assembly/tree/main,2,2
+/ClavelLab/genome-assembly/tree/main/workflow,2,2
+/ClavelLab/genome-assembly/tree/main/workflow/rules,2,2
+/ClavelLab/genome-assembly/blob/main/workflow/Snakefile,2,1
+/ClavelLab/genome-assembly/tree/main/resources,2,1
+/ClavelLab/genome-assembly/tree/main/resources/demo,2,1
+/ClavelLab/genome-assembly/blob/main/config/demo.tsv,1,1
