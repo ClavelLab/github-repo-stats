@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/ClavelLab/genome-assembly/tree/main/workflow/envs,4,1
+/ClavelLab/genome-assembly,2,1
+/ClavelLab/genome-assembly/blob/main/workflow/envs/bakta.yaml,1,1
+/ClavelLab/genome-assembly/blob/main/workflow/envs/seqkit.yaml,1,1
+/ClavelLab/genome-assembly/blob/main/workflow/envs/spades.yaml,1,1
+/ClavelLab/genome-assembly/blob/main/workflow/envs/trimmomatic.yaml,1,1
+/ClavelLab/genome-assembly/tree/main/workflow,1,1
