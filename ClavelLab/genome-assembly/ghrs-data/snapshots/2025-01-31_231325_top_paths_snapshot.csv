@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ClavelLab/genome-assembly,7,4
+/ClavelLab/genome-assembly/tree/main/workflow,3,1
+/ClavelLab/genome-assembly/tree/main/workflow/envs,3,1
+/clavellab/genome-assembly,2,2
+/ClavelLab/genome-assembly/tree/main,2,1
+/ClavelLab/genome-assembly/blob/main/.snakemake-workflow-catalog.yml,1,1
+/ClavelLab/genome-assembly/blob/main/workflow/envs/bakta.yaml,1,1
+/ClavelLab/genome-assembly/blob/main/workflow/envs/pandas.yaml,1,1
+/ClavelLab/genome-assembly/blob/main/workflow/envs/spades.yaml,1,1
+/ClavelLab/genome-assembly/blob/main/workflow/scripts/aggregate_summaries.py,1,1
