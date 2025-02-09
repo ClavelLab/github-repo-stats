@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ClavelLab/maldipickr,10,6
+/ClavelLab/maldipickr/tree/main/tests,2,2
+/ClavelLab/maldipickr/tree/main/vignettes,2,1
+/ClavelLab/maldipickr/blob/main/R/check_spectra.R,1,1
+/ClavelLab/maldipickr/blob/main/R/delineate_with_similarity.R,1,1
+/ClavelLab/maldipickr/blob/main/vignettes/import-data-from-bruker-maldi-biotyper.Rmd,1,1
+/ClavelLab/maldipickr/blob/main/vignettes/maldipickr.Rmd,1,1
+/ClavelLab/maldipickr/tree/main/inst,1,1
+/ClavelLab/maldipickr/tree/main/pkgdown,1,1
+/ClavelLab/maldipickr/tree/main/R,1,1
