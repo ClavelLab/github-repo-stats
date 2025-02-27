@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/ClavelLab/genome-assembly,7,7
+/clavellab/genome-assembly,2,2
+/ClavelLab/genome-assembly/blob/main/config/config.yaml,2,2
+/ClavelLab/genome-assembly/tree/main/config,2,2
+/ClavelLab/genome-assembly/tree/main/workflow,2,2
+/ClavelLab/genome-assembly/blob/main/workflow/Snakefile,2,1
+/ClavelLab/genome-assembly/blob/main/config/README.md,1,1
+/ClavelLab/genome-assembly/blob/main/workflow/rules/quality_check.smk,1,1
