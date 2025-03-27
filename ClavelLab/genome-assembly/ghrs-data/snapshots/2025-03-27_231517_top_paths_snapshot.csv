@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/ClavelLab/genome-assembly,10,9
+/ClavelLab/genome-assembly/tree/main/workflow,2,2
+/ClavelLab/genome-assembly/blob/main/workflow/rules/assembly.smk,1,1
+/ClavelLab/genome-assembly/blob/main/workflow/rules/plasmid_reconstruction.smk,1,1
+/ClavelLab/genome-assembly/blob/main/workflow/rules/quality_check.smk,1,1
+/ClavelLab/genome-assembly/blob/main/workflow/Snakefile,1,1
+/ClavelLab/genome-assembly/tree/main/workflow/rules,1,1
